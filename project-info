@@ -1,0 +1,3 @@
+//runnning 32 bit on 64 ubunut
+sudo apt-get install --reinstall libc6-i386
+sudo apt-get install libgl1-mesa-glx:i386 lsb-core
